@@ -1,0 +1,11 @@
+C:\Users\이준현\Desktop\admin\project.FW.Dac\bin\Debug\project.FW.Dac.dll
+C:\Users\이준현\Desktop\admin\project.FW.Dac\bin\Debug\project.FW.Dac.pdb
+C:\Users\이준현\Desktop\admin\project.FW.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\이준현\Desktop\admin\project.FW.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\이준현\Desktop\admin\project.FW.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\이준현\Desktop\admin\project.FW.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\이준현\Desktop\admin\project.FW.Dac\obj\Debug\project.FW.Dac.csproj.AssemblyReference.cache
+C:\Users\이준현\Desktop\admin\project.FW.Dac\obj\Debug\project.FW.Dac.csproj.CoreCompileInputs.cache
+C:\Users\이준현\Desktop\admin\project.FW.Dac\obj\Debug\project.FW.Dac.csproj.CopyComplete
+C:\Users\이준현\Desktop\admin\project.FW.Dac\obj\Debug\project.FW.Dac.dll
+C:\Users\이준현\Desktop\admin\project.FW.Dac\obj\Debug\project.FW.Dac.pdb

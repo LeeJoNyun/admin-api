@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>project_admin</name>
+    </assembly>
+    <members>
+        <member name="M:project_admin.Common.Crypto.EncryptMD5(System.String,System.Text.Encoding)">
+            <summary>
+            MD5 암호화
+            </summary>
+            <param name="text">암호화 할 평문</param>
+            <param name="encoding">System.Text.Encoding</param>
+            <returns>지정된 인코딩으로 암호화한 문자열</returns>
+        </member>
+        <member name="M:project_admin.Common.Crypto.EncryptSHA256(System.String,System.Text.Encoding)">
+            <summary>
+            SHA256 암호화
+            </summary>
+            <param name="text">암호화 할 평문</param>
+            <param name="encoding">System.Text.Encoding</param>
+            <returns>지정된 인코딩으로 암호화한 문자열</returns>
+        </member>
+        <member name="M:project_admin.Common.Crypto.EncryptSHA384(System.String,System.Text.Encoding)">
+            <summary>
+            SHA384 암호화
+            </summary>
+            <param name="text">암호화 할 평문</param>
+            <param name="encoding">System.Text.Encoding</param>
+            <returns>지정된 인코딩으로 암호화한 문자열</returns>
+        </member>
+        <member name="M:project_admin.Common.Crypto.EncryptSHA512(System.String,System.Text.Encoding)">
+            <summary>
+            SHA512 암호화
+            </summary>
+            <param name="text">암호화 할 평문</param>
+            <param name="encoding">System.Text.Encoding</param>
+            <returns>지정된 인코딩으로 암호화한 문자열</returns>
+        </member>
+        <member name="M:project_admin.Common.Crypto.IsSameHash(System.String,System.String,project_admin.Common.Crypto.HashType,System.Text.Encoding)">
+            <summary>
+            평문화 Hash 암호화 문자열 비교
+            </summary>
+            <param name="text">평문</param>
+            <param name="oldHash">Hash 암호화 문자열</param>
+            <param name="type">MD5, SHA256, SHA384, SHA512</param>
+            <param name="encoding">System.Text.Encoding</param>
+            <returns>평문을 지정된 인코딩으로 암호화한 후 비교 결과 True/False</returns>
+        </member>
+        <member name="M:project_admin.Controllers.LoginController.Post(project_admin.Models.Login)">
+            <remarks>
+            로그인
+            
+                {
+                    "userid" : "admin",
+                    "password" : "1234"
+                }
+                
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:project_admin.Controllers.UserController.Post(project_admin.Models.User)">
+            <remarks>
+            관리자 등록
+            
+                {
+                    "userid" : "admin",
+                    "password" : "1234",
+                    "name" : "김아무개",
+                    "email" : "abcd2@naver.com"
+                }
+                
+            </remarks>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

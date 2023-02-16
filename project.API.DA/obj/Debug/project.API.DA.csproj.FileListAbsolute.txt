@@ -1,0 +1,13 @@
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\project.API.DA.dll
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\project.API.DA.pdb
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\project.FW.Dac.dll
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\project.FW.Dac.pdb
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\이준현\Desktop\admin\project.API.DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\이준현\Desktop\admin\project.API.DA\obj\Debug\project.API.DA.csproj.AssemblyReference.cache
+C:\Users\이준현\Desktop\admin\project.API.DA\obj\Debug\project.API.DA.csproj.CoreCompileInputs.cache
+C:\Users\이준현\Desktop\admin\project.API.DA\obj\Debug\project.API.DA.csproj.CopyComplete
+C:\Users\이준현\Desktop\admin\project.API.DA\obj\Debug\project.API.DA.dll
+C:\Users\이준현\Desktop\admin\project.API.DA\obj\Debug\project.API.DA.pdb
